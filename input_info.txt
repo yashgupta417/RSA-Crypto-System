@@ -1,0 +1,15 @@
+			Other Info
+Inupt Type: a-z 0-9 A-Z and all characters(including space) till ASCII value 127
+
+NOTE:message should not be more than 20 characters since number equivalent 
+     of message string can not be more than N. And we can't take large N
+     as it will take more time. 
+
+example input:
+-> 12345789@#$
+-> heyhello   HHH
+-> @@@92727HH  ###$$
+
+
+
+Execution time: normally 1-2 seconds
